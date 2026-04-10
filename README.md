@@ -1,7 +1,5 @@
 # Digital-Transmission-Frame-Decoding-using-Python
 
-# Digital Transmission & Layer 2 Protocol Emulation
-
 This repository hosts a comprehensive suite of **Python-based simulations** modeling a full digital communication chain. The project bridges the gap between **Physical Layer (L1)** signal processing and **Data Link Layer (L2)** frame encapsulation, using industry-standard tools like **Scapy**.
 
 ## Project Overview
